@@ -7,7 +7,7 @@ let categories = [
 ];
 
 let tasks = [
-  { id: 1, text: 'Welcome to TaskCord!', completed: false, priority: 'medium', category: 'inbox', createdAt: new Date() },
+  { id: 1, text: 'Welcome to Task-Cord!', completed: false, priority: 'medium', category: 'inbox', createdAt: new Date() },
   { id: 2, text: 'Add your first task below', completed: false, priority: 'low', category: 'inbox', createdAt: new Date() },
   { id: 3, text: 'Click the checkbox to complete', completed: true, priority: 'high', category: 'inbox', createdAt: new Date() }
 ];
