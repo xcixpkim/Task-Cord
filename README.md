@@ -33,7 +33,7 @@
 ## 설치 및 실행
 
 ### GitHub Pages
-https://xcixcode.github.io/Task-Cord/
+https://xcixpkim.github.io/Task-Cord/
 
 ### 로컬에서 실행
 1. 저장소를 클론하거나 파일을 다운로드하여 압축을 풉니다.
